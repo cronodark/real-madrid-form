@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VetLink</string>
+    <string name="hintName">Nama</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+</resources>
